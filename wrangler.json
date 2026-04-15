@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "skipyaa",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0a968aa5-b408-489b-a33b-49c4d9481819",
+			"database_name": "skipyaa"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
